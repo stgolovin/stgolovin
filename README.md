@@ -3,7 +3,9 @@
 I am Stanislav Golovin, Python Developer.
 
 ### Tech:
-Python, Django Framework, PostgreSQL, Git;
+Python, Django Framework, PostgreSQL, Git;  
+SQL (DDL, DCL, DML);  
+HTML, CSS, JS, React;  
 
 ### Tests:
 pytest, unitest

@@ -1,22 +1,14 @@
-### Hi there :wave: <br>
+Hi, I’m Stanislav Golovin — Senior Python Engineer.
 
-I am Stanislav Golovin, Python Developer. <br>
+I design and scale backend systems for LLM-powered products, with a focus on RAG pipelines, async architectures, and high-load APIs.
 
-### Tech: <br>
-Python, bash, JS, Ruby; <br>
-Django, DRF, FastAPI; <br>
-Git, GitHub; <br>
-SQL, PostgreSQL, SQLAlchemy, psycopg2; <br>
-MongoBD, Redis, Celery;  <br>
-Docker, Docker Compose; <br>
+Currently working on an AI assistant platform: building retrieval and evaluation pipelines, improving LLM answer quality, and scaling FastAPI services in production. I care about clear architecture, performance, reliability, and long-term maintainability.
 
-### Tests: <br>
-pytest, unitest, jest, minitest; <br>
+**Expertise**:
+ LLM & RAG systems (LangChain, LangSmith, evaluation & regression)
+ Async backend & APIs (FastAPI, asyncio, aiohttp)
+ Microservices, integrations, event-driven systems
+ Data & infrastructure (MongoDB, ClickHouse, Kafka, Docker, CI/CD)
+ API design, documentation, and engineering best practices
 
-### CV: <br>
-- [English](https://github.com/stgolovin/stgolovin/blob/main/cv_python_dev_golovin_eng.pdf)  <br>
-- [Russian](https://github.com/stgolovin/stgolovin/blob/main/cv_python_dev_golovin_rus.pdf) <br>
-
-### Summary: <br>
- I write extensively in Python, and also have experience with JS and Ruby. I have a fondness for UNIX systems and take pleasure in crafting concise, readable code, diligently covered by tests. My focus is on deepening my expertise and applying best programming patterns. I enjoy contributing to the development of an eco- friendly and comfortable team interaction. <br>
-Moreover, I have a passion for running, am cultivating a yoga practice, and aspire to speak English as fluently as I do in Russian.
+I enjoy solving complex problems at the system level and working in teams with strong engineering culture.
